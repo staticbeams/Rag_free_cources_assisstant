@@ -1,0 +1,13 @@
+langchain
+pinecone-client
+pypdf
+Groq
+pandas
+numpy
+python-dotenv
+langchain-groq 
+jq 
+langchain_community 
+pinecone-text 
+langchain-huggingface 
+nltk

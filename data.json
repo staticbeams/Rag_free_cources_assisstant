@@ -1,0 +1,2096 @@
+{
+    "latest courses": [
+      {
+        "title": "Framework to Choose the Right LLM for your Business",
+        "description": "This course provides a comprehensive framework for selecting the right LLM for your business. Learn to evaluate LLMs based on accuracy, cost, scalability, and more, while exploring real-world applications to make informed, strategic AI decisions.",
+        "duration": "1 Hour",
+        "rating": "4.7/5",
+        "level": "Beginner",
+        "curriculum": [
+          "Introduction",
+          "It's an LLM World!",
+          "Understand Your Business",
+          "Framework to Choose the Right LLM",
+          "Case Studies",
+          "Conclusion"
+        ],
+        "certificate": "Lifetime-valid certificate from Analytics Vidhya",
+        "target_audience": [
+          "Business leaders seeking to implement AI-driven solutions efficiently.",
+          "Data scientists exploring LLMs for industry-specific applications.",
+          "Tech professionals involved in AI integration and decision-making processes."
+        ],
+        "instructor": {
+          "name": "Rohan Rao",
+          "title": "Principal Data Scientist, H2O.ai",
+          "achievements": [
+            "Quadruple Kaggle Grandmaster",
+            "9-time National Sudoku Champion"
+          ],
+          "alias": "vopani",
+          "social": "LinkedIn"
+        },
+        "faqs": [
+          {
+            "question": "What factors are key in choosing an LLM?",
+            "answer": "Key factors include accuracy, cost, scalability, technical compatibility, support, security, and compliance with privacy laws."
+          },
+          {
+            "question": "Are all LLMs suitable for the same tasks?",
+            "answer": "No, different LLMs are suited to different tasks depending on the business problem and required capabilities."
+          }
+        ],
+        "key_takeaways": [
+          "Understand how to evaluate and select the right LLM for business needs.",
+          "Learn to assess LLMs based on accuracy, cost, scalability, and integration.",
+          "Gain insights into real-world LLM applications through case studies.",
+          "Develop practical decision-making skills for LLM adoption in various industries."
+        ],
+        "link": "https://courses.analyticsvidhya.com/courses/choosing-the-right-LLM-for-your-business"
+      },
+      {
+        "title": "Improving Real World RAG Systems: Key Challenges & Practical Solutions",
+        "description": "Master key challenges in real-world Retrieval-Augmented Generation (RAG) systems. Explore practical solutions, advanced retrieval strategies, and agentic RAG systems to improve context, relevance, and accuracy in AI-driven applications.",
+        "duration": "1 Hour",
+        "rating": "4.8/5",
+        "level": "Beginner",
+        "curriculum": [
+          "Introduction to RAG Systems",
+          "Resources",
+          "RAG System Challenges Practical Solutions",
+          "Hands-on: Solution for Missing Content in RAG",
+          "Other Key Challenges",
+          "Practical Solutions",
+          "Hands-on: Solution for Missed Top Ranked, Not in Context, Not Extracted",
+          "HyDE",
+          "Other Practical Solutions from recent Research Papers"
+        ],
+        "certificate": "Lifetime-valid certificate from Analytics Vidhya",
+        "target_audience": [
+          "AI/ML professionals aiming to enhance RAG system performance.",
+          "Developers/Engineers building search, conversational, or generative AI systems.",
+          "Researchers/Enthusiasts seeking hands-on experience with advanced RAG techniques."
+        ],
+        "instructor": {
+          "name": "Dipanjan Sarkar",
+          "title": "Head of Community and Principal AI Scientist, Analytics Vidhya",
+          "achievements": [
+            "Top 10 Data Scientists in India, 2020",
+            "40 under 40 Data Scientists, 2021",
+            "Google Developer Expert in Machine Learning, 2019",
+            "Top 50 AI Thought Leaders, 2022"
+          ],
+          "social": "LinkedIn"
+        },
+        "faq": [
+          {
+            "question": "What knowledge is needed to take this course?",
+            "answer": "A basic understanding of AI/ML principles and some experience with machine learning frameworks like PyTorch or TensorFlow."
+          },
+          {
+            "question": "Does the course include hands-on exercises?",
+            "answer": "Yes, the course provides practical exercises through demos and notebooks."
+          }
+        ],
+        "key_takeaways": [
+          "Master RAG systems with a solid grasp of architecture and components.",
+          "Solve key challenges like missing content and hallucinations.",
+          "Optimize performance with advanced chunking and retrieval strategies."
+        ],
+        "link": "https://courses.analyticsvidhya.com/courses/improving-real-world-rag-systems-key-challenges"
+      },
+      {
+        "title": "Building Smarter LLMs with Mamba and State Space Model",
+        "description": "Master Mamba's selective state space model for LLMs. Discover key components like the Mamba block, optimizing sequence modeling with efficient, scalable training and inference, surpassing traditional Transformers.",
+        "duration": "1 Hour",
+        "curriculum": [
+          "Course Overview",
+          "An Alternative to Transformers",
+          "Understanding State Space Models",
+          "Mamba - A Selective State Space Model"
+        ],
+        "certificate": "Lifetime-valid certificate from Analytics Vidhya",
+        "target_audience": [
+          "AI and ML professionals looking to specialize in State Space Models.",
+          "Data scientists interested in advanced Generative AI models.",
+          "NLP practitioners seeking to integrate SSMs in workflows."
+        ],
+        "instructor": {
+          "name": "Maarten Grootendorst",
+          "title": "Senior Clinical Data Scientist, IKNL",
+          "achievements": [
+            "Creator of KeyBERT and BERTopic",
+            "Co-author of Hands-On Large Language Models"
+          ],
+          "social": "LinkedIn"
+        },
+        "key_takeaways": [
+          "A comprehensive understanding of State Space Models.",
+          "In-depth exploration of the Mamba Architecture.",
+          "Advanced applications and practical use cases."
+        ],
+        "link": "https://courses.analyticsvidhya.com/courses/building-smarter-llms-with-mamba"
+      }
+    ],
+    "Business Analytics":[
+      {
+        "title": "Introduction to Business Analytics",
+        "platform": "Analytics Vidhya",
+        "duration": "1 Hour",
+        "rating": "4.6/5",
+        "level": "Beginner",
+        "description": "A foundational course to understand Business Analytics, its applications, and the skills required to start a career in the field.",
+        "why_pursue": [
+          "Data is ubiquitous and organizations need analysts.",
+          "Hot industry trend with numerous applications.",
+          "Limitless potential across industries and functions."
+        ],
+        "curriculum": [
+          {
+            "title": "What is Business Analytics?",
+            "topics": [
+              "Definition and popularity of Business Analytics",
+              "Applications",
+              "Comparison: Business Analytics vs. Data Science",
+              "Sample problems and projects",
+              "Career prospects"
+            ]
+          },
+          {
+            "title": "Spectrum of Business Analytics",
+            "topics": [
+              "Terms related to Business Analytics",
+              "MIS, Business Intelligence, and Predictive Modeling",
+              "AI and Machine Learning applications"
+            ]
+          },
+          {
+            "title": "Skills Required for Business Analytics",
+            "topics": [
+              "Skills for Business Analytics roles",
+              "Roadmap to CBAP (Certified Business Analytics Program)"
+            ]
+          },
+          {
+            "title": "Case Study: Ezine Publishing",
+            "topics": [
+              "Understanding business focus categories",
+              "Traffic data analysis",
+              "Effective channel identification",
+              "Revenue maximization"
+            ]
+          },
+          {
+            "title": "Feedback",
+            "topics": ["Course evaluation and feedback"]
+          }
+        ],
+        "certificate": "Lifetime-valid certificate upon completion",
+        "instructor": {
+          "name": "Kunal Jain",
+          "title": "Founder & CEO, Analytics Vidhya",
+          "experience": "15+ years in Data Science"
+        },
+        "link": "https://courses.analyticsvidhya.com/courses/introduction-to-analytics"
+      },
+      {
+        "title": "Introduction to Python",
+        "platform": "Analytics Vidhya",
+        "duration": "1 Hour",
+        "rating": "4.8/5",
+        "level": "Beginner",
+        "description": "A beginner's guide to Python for Data Science, focusing on libraries and applications in data analysis and visualization.",
+        "why_pursue": [
+          "Most used language for Data Science and ML projects.",
+          "Highly recommended starting point for Data Science careers.",
+          "Wide array of functionalities and strong community support."
+        ],
+        "curriculum": [
+          {
+            "title": "Overview of the Course",
+            "topics": ["Course introduction"]
+          },
+          {
+            "title": "Introduction to Python",
+            "topics": [
+              "Python basics",
+              "Installing Python"
+            ]
+          },
+          {
+            "title": "Core Python Concepts",
+            "topics": [
+              "Operators",
+              "Variables and data types",
+              "Conditional statements",
+              "Looping constructs",
+              "Functions",
+              "Data structures"
+            ]
+          },
+          {
+            "title": "Data Handling",
+            "topics": [
+              "Reading CSV files",
+              "DataFrames operations",
+              "Indexing DataFrames"
+            ]
+          },
+          {
+            "title": "Data Manipulation and Visualization",
+            "topics": [
+              "Sorting and merging data",
+              "Data visualization with Matplotlib and Seaborn"
+            ]
+          },
+          {
+            "title": "Regular Expressions and Libraries",
+            "topics": [
+              "Using regex in Python",
+              "Introduction to Python libraries"
+            ]
+          },
+          {
+            "title": "Cheatsheet and Evaluation",
+            "topics": ["Python cheatsheet", "Quizzes and challenges"]
+          }
+        ],
+        "certificate": "Blockchain-enabled certificate with lifetime validity",
+        "instructor": "Analytics Vidhya Team",
+        "link": "https://courses.analyticsvidhya.com/courses/introduction-to-data-science"
+      },
+      {
+        "title": "Microsoft Excel for Beginners",
+        "platform": "Analytics Vidhya",
+        "duration": "2 Hours",
+        "rating": "4.7/5",
+        "level": "Beginner",
+        "description": "A comprehensive guide to Microsoft Excel basics, designed for beginners to improve data management and analytical skills.",
+        "why_pursue": [
+          "Excel is widely used for data management and analysis.",
+          "Valuable skill in both corporate and academic settings.",
+          "Boosts productivity and decision-making capabilities."
+        ],
+        "curriculum": [
+          {
+            "title": "Introduction to Excel",
+            "topics": [
+              "Overview of Microsoft Excel",
+              "Setting up your workspace"
+            ]
+          },
+          {
+            "title": "Basic Excel Features",
+            "topics": [
+              "Data entry and formatting",
+              "Basic calculations and functions",
+              "Cell referencing"
+            ]
+          },
+          {
+            "title": "Working with Data",
+            "topics": [
+              "Sorting and filtering data",
+              "Data validation",
+              "Basic chart creation"
+            ]
+          },
+          {
+            "title": "Practical Applications",
+            "topics": [
+              "Use cases of Excel in business and data analysis",
+              "Best practices for managing large datasets"
+            ]
+          },
+          {
+            "title": "Evaluation",
+            "topics": ["Exercises and quizzes to test skills"]
+          }
+        ],
+        "certificate": "Valid lifetime certificate upon course completion",
+        "instructor": "Analytics Vidhya Team",
+        "link": "https://courses.analyticsvidhya.com/courses/microsoft-excel-for-beginners"
+      }
+    ],
+    "deep learning cources":[
+      {
+          "title": "Introduction to PyTorch for Deep Learning",
+          "description": "A beginner-friendly course on PyTorch, one of the leading deep learning frameworks, covering its basics, implementation, and applications.",
+          "duration": "1 Hour",
+          "rating": "4.6/5",
+          "level": "Beginner",
+          "topics": [
+            "What is PyTorch?",
+            "Getting Started with PyTorch",
+            "Tensors in PyTorch",
+            "Neural Networks",
+            "Forward and Backpropagation",
+            "Implementing a Neural Network in PyTorch",
+            "Deep Learning on PyTorch",
+            "Case Study: Image Recognition Problem"
+          ],
+          "key_features": [
+            "Free of cost",
+            "Certificate of Completion",
+            "6 months access",
+            "Uses Python programming language"
+          ],
+          "faq": {
+            "relevance": "Rapidly growing framework, highly flexible and industry-relevant.",
+            "requirements": "Basic knowledge of Python recommended but not mandatory.",
+            "advantages": "Flexible, fast, and easy to debug.",
+            "limitations": "Not end-to-end; challenges in production use."
+          },
+          "link": "https://courses.analyticsvidhya.com/courses/introduction-to-pytorch-for-deeplearning"
+      },
+        {
+          "title": "Convolutional Neural Networks (CNN) from Scratch",
+          "description": "An advanced course focusing on CNNs, the most popular deep learning architecture for computer vision tasks.",
+          "rating": "4.7/5",
+          "level": "Advanced",
+          "topics": [
+            "What is a Neural Network?",
+            "Introduction to CNNs",
+            "Architecture of CNNs",
+            "Mathematics behind CNNs",
+            "Implementing CNNs using NumPy and Keras",
+            "Advanced: Implementing CNNs in PyTorch"
+          ],
+          "requirements": {
+            "hardware": {
+              "RAM": "8GB",
+              "Processor": "i5",
+              "Storage": "1TB",
+              "Graphics": "4GB Nvidia"
+            },
+            "prerequisites": "Basics of neural networks; recommended to take 'Introduction to Neural Networks' course."
+          },
+          "key_features": [
+            "Free of cost",
+            "Certificate of Completion",
+            "Deep dive into CNN concepts and implementation"
+          ],
+          "link": "https://courses.analyticsvidhya.com/courses/convolutional-neural-networks-cnn-from-scratch"
+        },
+        {
+            "title": "Introduction to Natural Language Processing",
+            "description": "Learn the basics of NLP, Regular Expressions, and Text Preprocessing, and dive into text sentiment analysis using machine learning.",
+            "duration": "5 Hours",
+            "rating": "4.7/5",
+            "level": "Beginner",
+            "topics": [
+              "What is Natural Language Processing (NLP)?",
+              "Language Translation",
+              "Dialog Systems / Chatbots",
+              "Sentiment Analysis",
+              "Text Summarizers",
+              "Speech Recognition",
+              "Autocorrect"
+            ],
+            "curriculum": [
+              {
+                "module": "Module 1",
+                "title": "Introduction to Natural Language Processing",
+                "content": [
+                  "Welcome to the Course",
+                  "About the Course",
+                  "Introduction to Natural Language Processing",
+                  "Exercise: Introduction to Natural Language Processing",
+                  "Python for Data Science (Optional)"
+                ]
+              },
+              {
+                "module": "Module 2",
+                "title": "Learn to use Regular Expressions",
+                "content": [
+                  "Welcome to Module",
+                  "Understanding Regular Expression",
+                  "Implementing Regular Expression in Python",
+                  "Exercise: Implementing Regular Expression in Python"
+                ]
+              },
+              {
+                "module": "Module 3",
+                "title": "First Step of NLP - Text Processing",
+                "content": [
+                  "Welcome to Module",
+                  "Tokenization and Text Normalization",
+                  "Exercise: Tokenization and Text Normalization",
+                  "Exploring Text Data",
+                  "Part of Speech Tagging and Grammar Parsing",
+                  "Exercise: Part of Speech Tagging and Grammar Parsing",
+                  "Implementing Text Pre-processing Using NLTK",
+                  "Exercise: Implementing Text Pre-processing Using NLTK",
+                  "Build a Basic ML Model for Text Classification"
+                ]
+              },
+              {
+                "module": "Module 4",
+                "title": "NLP Certification Exam",
+                "content": [
+                  "NLP Exam"
+                ]
+              },
+              {
+                "module": "Module 5",
+                "title": "Where to go from here?",
+                "content": [
+                  "Where to go from here?"
+                ]
+              }
+            ],
+            "key_features": [
+              "Free of cost",
+              "Certificate of Completion",
+              "6 months access"
+            ],
+            "requirements": {
+              "prerequisites": "Familiarity with Python and basics of Machine Learning. No prior knowledge in NLP is required.",
+              "optional": "Python for Data Science course available to familiarize with Python"
+            },
+            "faq": [
+              {
+                "question": "Who is this course for?",
+                "answer": "This course is for those who want to start working with text data and understand NLP in an applied manner."
+              },
+              {
+                "question": "Do I need prior knowledge in NLP?",
+                "answer": "No prior knowledge in NLP is required. Familiarity with Python and basic machine learning concepts is helpful."
+              },
+              {
+                "question": "Is this course free?",
+                "answer": "Yes, the course is free. You will receive a certificate if you enroll after 29th September, 2020."
+              }
+            ],
+            "link": "https://courses.analyticsvidhya.com/courses/Intro-to-NLP"
+          }
+      ],
+    "Projects" : [
+      {
+        "title": "Twitter Sentiment Analysis",
+        "provider": "Analytics Vidhya",
+        "level": "Intermediate",
+        "description": "Learn Sentiment Analysis using Python, which is widely used in natural language processing. Understand how to analyze emotions in text, categorize sentiments, and apply the knowledge to various domains, including customer feedback and social media analysis.",
+        "topics": [
+          "Sentiment Analysis Overview",
+          "Loading Libraries and Data",
+          "Data Inspection",
+          "Data Cleaning",
+          "Story Generation and Visualization from Tweets",
+          "Bag-of-Words Features",
+          "TF-IDF Features",
+          "Word2Vec Features",
+          "Modeling Techniques",
+          "Logistic Regression",
+          "Support Vector Machine (SVM)",
+          "RandomForest",
+          "XGBoost",
+          "Fine-Tuning XGBoost + Word2Vec"
+        ],
+        "link": "https://courses.analyticsvidhya.com/courses/twitter-sentiment-analysis",
+        "prerequisites": [
+          "Basic Python and Jupyter Notebook knowledge"
+        ],
+        "duration": "Few days",
+        "certificate": "No certificate provided"
+      },
+      {
+        "title": "Top Data Science Projects for Analysts and Data Scientists",
+        "provider": "Analytics Vidhya",
+        "level": "Advanced",
+        "description": "A collection of open-source data science projects covering various domains such as machine learning, computer vision, deep learning, natural language processing, and reinforcement learning. The course helps to practice data science skills and enhance your resume by completing practical projects.",
+        "topics": [
+          "Machine Learning Projects",
+          "Deep Learning Projects",
+          "Computer Vision Projects",
+          "Natural Language Processing (NLP) Projects",
+          "Reinforcement Learning Projects",
+          "Data Engineering Projects",
+          "Other Data Science Projects"
+        ],
+        "link": "https://courses.analyticsvidhya.com/courses/top-data-science-projects-for-analysts-and-data-scientists",
+        "prerequisites": [
+          "Basic knowledge of machine learning algorithms"
+        ],
+        "duration": "Ongoing practice with new projects",
+        "certificate": "No certificate provided"
+      },
+      {
+        "title": "Getting Started with Git and GitHub for Data Science Professionals",
+        "provider": "Analytics Vidhya",
+        "level": "Beginner",
+        "description": "Learn Git and GitHub essentials to manage your data science projects with version control. Understand how Git tracks project changes, collaborate efficiently, and contribute to open-source projects.",
+        "topics": [
+          "Git and GitHub Overview",
+          "Git Terminology",
+          "Using Git - Commit, Push, Pull",
+          "Creating and Managing Repositories",
+          "Branching and Merging",
+          "Remote Repositories on GitHub",
+          "Forking and Contributing to Projects"
+        ],
+        "link": "https://courses.analyticsvidhya.com/courses/getting-started-with-git-and-github-for-data-science-professionals",
+        "prerequisites": [
+          "No prior knowledge required"
+        ],
+        "duration": "1 week (if spent 1 hour daily)",
+        "certificate": "No certificate provided"
+      },
+      {
+        "title": "Loan Prediction Practice Problem (Using Python)",
+        "provider": "Analytics Vidhya",
+        "level": "Intermediate",
+        "description": "This course is designed for people who want to solve binary classification problems. The course tackles a real-life case study of Dream Housing Finance, which automates the loan eligibility process based on customer details. By the end of the course, you will have a solid understanding of classification problems and various approaches to solve them.",
+        "topics": [
+          "Problem Statement",
+          "Hypothesis Generation",
+          "Getting the system ready and loading the data",
+          "Understanding the Data",
+          "Univariate Analysis",
+          "Bivariate Analysis",
+          "Missing Value and Outlier Treatment",
+          "Evaluation Metrics for Classification Problems",
+          "Model Building: Logistic Regression using stratified k-folds cross validation",
+          "Feature Engineering",
+          "Model Building: Part II"
+        ],
+        "link": "https://courses.analyticsvidhya.com/courses/loan-prediction-practice-problem-using-python",
+        "prerequisites": [
+          "Familiarity with Python"
+        ],
+        "duration": "Flexible, based on learner's pace",
+        "certificate": "No certificate provided",
+        "additional_notes": "This course assumes familiarity with Python and Jupyter Notebook. The course is free and does not offer placement support."
+      },
+      {
+        "title": "Big Mart Sales Prediction Using R",
+        "provider": "Analytics Vidhya",
+        "level": "Intermediate",
+        "description": "In this course, you will work on the Big Mart Sales Prediction Challenge, addressing a real-life regression problem. The course helps you understand the techniques required to solve regression problems using R, covering various models and approaches to prediction.",
+        "topics": [
+          "Problem Statement",
+          "Hypothesis Generation",
+          "Loading Packages and Data",
+          "Understanding the Data",
+          "Univariate Analysis",
+          "Bivariate Analysis",
+          "Missing Value Treatment",
+          "Feature Engineering",
+          "Encoding Categorical Variables",
+          "PreProcessing Data",
+          "Model Building: Linear Regression, Regularized Linear Regression, Random Forest, XGBoost"
+        ],
+        "link": "https://courses.analyticsvidhya.com/courses/big-mart-sales-prediction-using-r",
+        "prerequisites": [
+          "Familiarity with R"
+        ],
+        "duration": "6 months access to the course",
+        "certificate": "No certificate provided",
+        "additional_notes": "This course is free of charge and can be taken at your own pace. The course does not include placement support."
+      }
+    ], 
+    "tools cources": [
+      {
+        "title": "Pandas for Data Analysis in Python",
+        "platform": "Analytics Vidhya",
+        "description": "Pandas is one of the most popular Python libraries for data science. Learn how to perform data analysis and manipulation with Pandas.",
+        "link": "https://courses.analyticsvidhya.com/courses/pandas-for-data-analysis-in-python",
+        "topics": [
+            "Basics of the Pandas library",
+            "How to import and export data with Pandas",
+            "Data manipulation in Pandas (selecting, renaming, sorting, etc.)",
+            "Handling missing values",
+            "Using the Apply function in Pandas",
+            "Aggregating data in Pandas",
+            "Merging and joining dataframes",
+            "Creating Pivot Tables"
+          ],
+        "course_details": {
+          "target_audience": [
+            "Beginners in Python",
+            "Anyone who wants to start a data science career",
+            "Anyone transitioning from Excel to Python"
+          ],
+          "install_guide": "Install Pandas through Anaconda for the easiest setup.",
+          "file_formats_supported": [
+            "CSV", "XLSX", "ZIP", "Plain Text", "JSON", "XML", "HTML", "Images", "HDF5", "PDF", "DOCX", "MP3", "MP4", "SQL"
+          ],
+          "requirements": [
+            "Laptop/Desktop with 4GB RAM",
+            "Internet Connection",
+            "Basic Python Knowledge (for advanced manipulation)"
+          ],
+          "course_duration": "A few hours"
+        },
+        "faq": {
+          "is_python_necessary": "Basic Python knowledge is helpful but not mandatory for basic usage.",
+          "difficulty": "Beginner-friendly, with practice exercises to help reinforce learning.",
+          "certificate": "No certificate for this course.",
+          "access_period": "6 months after registration"
+        }
+      },
+      {
+        "title": "Tableau for Beginners",
+        "platform": "Analytics Vidhya",
+        "description": "Learn to use Tableau, the leading business intelligence and data visualization tool, and start creating impactful visualizations.",
+        "link": "https://courses.analyticsvidhya.com/courses/tableau-for-beginners",
+        "course_details": {
+          "target_audience": [
+            "Beginners in Data Visualization",
+            "Business Intelligence professionals",
+            "Anyone wanting to master Tableau"
+          ],
+          "topics": [
+            "Introduction to Tableau",
+            "Navigating the Tableau interface",
+            "Creating different types of charts (line charts, pie charts, scatter plots)",
+            "Geospatial analysis using map visualizations",
+            "Using filters and trend lines in Tableau"
+          ],
+          "install_guide": "You can use Tableau Public for learning (free version), or Tableau Desktop for professional use.",
+          "course_duration": "A few hours"
+        },
+        "faq": {
+          "programming_knowledge_required": "No programming knowledge required. Tableau is a drag-and-drop tool.",
+          "tools_included": [
+            "Tableau Desktop",
+            "Tableau Public",
+            "Tableau Prep",
+            "Tableau Server",
+            "Tableau Online"
+          ],
+          "certificate": "Yes, a Certificate of Completion is provided.",
+          "access_period": "6 months after registration",
+          "next_step": "Consider taking 'Mastering Tableau from Scratch: Become a Data Visualization Rockstar' for advanced skills."
+        }
+      },
+      {
+        "title": "Getting Started with scikit-learn (sklearn) for Machine Learning",
+        "description": "Scikit-learn (sklearn) is the go-to Python library for machine learning. This course covers the basics of sklearn, including building models like linear regression, logistic regression, decision trees, and more. Learn how to apply sklearn in data preprocessing, feature engineering, and model building.",
+        "link": "https://courses.analyticsvidhya.com/courses/get-started-with-scikit-learn-sklearn",
+        "target_audience": [
+          "Machine learning aspirants",
+          "Machine learning freshers",
+          "Data science enthusiasts",
+          "Team leaders",
+          "Senior roles in machine learning projects"
+        ],
+        "prerequisites": [
+          "Basic machine learning knowledge",
+          "Basic Python knowledge"
+        ],
+        "topics": [
+          "Introduction to scikit-learn",
+          "Use of scikit-learn in Data Science Life Cycle",
+          "Building ML models using scikit-learn",
+          "Understanding Machine Learning pipeline using scikit-learn"
+        ],
+        "features": [
+          "Free course",
+          "Hands-on learning",
+          "In-depth coverage of scikit-learn"
+        ]
+      },
+      {
+        "title": "Learn Swift for Data Science",
+        "description": "Swift is quickly gaining traction in data science due to its speed, stability, and flexibility. This course introduces Swift programming, its ecosystem, and its use in data science tasks, including deep learning and natural language processing with TensorFlow and SwiftAI.",
+        "link": "https://courses.analyticsvidhya.com/courses/learn-swift-for-data-science",
+        "target_audience": [
+          "People interested in data science",
+          "Swift enthusiasts",
+          "Beginners exploring programming languages for data science"
+        ],
+        "prerequisites": [
+          "Basic knowledge of machine learning algorithms",
+          "Optional: Python programming knowledge"
+        ],
+        "topics": [
+          "Introduction to Swift",
+          "Swift basics for data analysis",
+          "Machine learning with Swift and TensorFlow",
+          "Building NLP-based iOS apps with Swift"
+        ],
+        "features": [
+          "Free course",
+          "Swift-based machine learning and NLP applications",
+          "Bonus chapter on NLP-based iOS apps"
+        ]
+      },
+      {
+        "title": "PyTorch for Deep Learning",
+        "provider": "Analytics Vidhya",
+        "level": "Intermediate",
+        "description": "This course introduces PyTorch, a deep learning framework used for building machine learning models. It covers the basics of PyTorch, tensor manipulation, neural networks, and training models using real-world examples.",
+        "topics": [
+          "Introduction to PyTorch",
+          "Tensors in PyTorch",
+          "Neural Networks and Layers",
+          "Activation Functions",
+          "Loss Functions and Optimizers",
+          "Building a Neural Network in PyTorch",
+          "Training Neural Networks",
+          "Handling Overfitting with Regularization",
+          "Hyperparameter Tuning",
+          "Deploying Models"
+        ],
+        "link": "https://courses.analyticsvidhya.com/courses/pytorch-for-deep-learning",
+        "prerequisites": [
+          "Basic understanding of Python",
+          "Familiarity with machine learning concepts"
+        ],
+        "duration": "Flexible, based on learner's pace",
+        "certificate": "No certificate provided",
+        "additional_notes": "This course is free of charge and is suitable for individuals who are familiar with Python and want to learn how to use PyTorch for deep learning applications."
+      },
+      {
+        "title": "Python for Data Science",
+        "provider": "Analytics Vidhya",
+        "level": "Beginner to Intermediate",
+        "description": "This course is designed for individuals who want to get started with Python for data science. It covers the essentials of Python programming, data structures, libraries like NumPy, Pandas, and data visualization using Matplotlib and Seaborn.",
+        "topics": [
+          "Introduction to Python",
+          "Python Data Structures",
+          "Working with NumPy",
+          "Pandas for Data Analysis",
+          "Data Visualization with Matplotlib",
+          "Data Cleaning and Preprocessing",
+          "Exploratory Data Analysis",
+          "Statistical Analysis with Python",
+          "Introduction to Machine Learning with Scikit-learn",
+          "Model Evaluation and Metrics"
+        ],
+        "link": "https://courses.analyticsvidhya.com/courses/python-for-data-science",
+        "prerequisites": [
+          "Basic understanding of programming"
+        ],
+        "duration": "Flexible, based on learner's pace",
+        "certificate": "No certificate provided",
+        "additional_notes": "This free course is ideal for beginners who want to learn Python for data science and is suitable for individuals interested in data analysis, machine learning, and statistics."
+      }
+  ],
+  "generative ai cources" : [
+    {
+      "title": "Creating Problem-Solving Agents using GenAI for Action Composition",
+      "description": "Discover how Generative AI is revolutionizing Agentic AI systems to solve complex real-world problems.",
+      "level": "Beginner",
+      "duration": "1 Hour",
+      "rating": "4.7/5",
+      "link": "https://courses.analyticsvidhya.com/courses/creating-problem-solving-agents-using-genai-for-action-composition",
+      "certificate": {
+        "available": true,
+        "details": "Unlock a lifetime-valid certificate from Analytics Vidhya upon completing the course—your achievement is forever recognized!"
+      },
+      "topics": [
+            "Overview- Count the Number of Agents",
+            "A brief history of Agentic Systems",
+            "Agents Today",
+            "Multi-Agent Systems Today",
+            "Practical Solutions"
+          ],
+      "target_audience": [
+        "Beginners in AI and ML looking to understand agentic systems and their real-world applications.",
+        "Tech enthusiasts and developers interested in learning the basics of creating intelligent, problem-solving agents.",
+        "Professionals exploring multi-agent systems for automation and dynamic task orchestration in various domains."
+      ],
+      "instructor": {
+        "name": "Vikas Agrawal",
+        "title": "Senior Principal Data Scientist at Oracle Analytics Cloud",
+        "bio": "Vikas Agrawal is a Senior Principal Data Scientist at Oracle Analytics Cloud, focused on designing and deploying AI solutions across ERP, SCM, HCM, CX, and MFG for Fusion and NetSuite customers. His research involves developing intelligent agents that leverage domain knowledge to solve complex problems by combining tools and critiqued LLMs/LMMs for hypothesis generation and task orchestration. An electrical engineer turned computer scientist, Vikas is an IIT Delhi graduate with experience at CalTech, Intel, and Infosys.",
+        "linkedin": "https://www.linkedin.com/in/vikas-agrawal/"
+      },
+      "faq": [
+        {
+          "question": "What is an agentic system?",
+          "answer": "An agentic system refers to an AI-based structure where agents can autonomously perform tasks, often in collaboration, to solve complex problems."
+        },
+        {
+          "question": "Is this course suitable for beginners?",
+          "answer": "Yes, this course is beginner-friendly and provides an introduction to agentic systems and their applications."
+        },
+        {
+          "question": "Are there any practical demos in the course?",
+          "answer": "Yes, you will see practical demos that illustrate how agents are created and used in real-world applications."
+        },
+        {
+          "question": "What will I learn from this course?",
+          "answer": "You'll gain foundational knowledge of AI agents, enabling you to apply these concepts to automation, AI development, and other tech projects involving intelligent systems."
+        }
+      ],
+      "key_takeaways": [
+        "Understand the evolution and current capabilities of agentic systems.",
+        "Learn the basics of agents and multi-agent systems, including their role in solving complex problems.",
+        "Gain insights into practical applications of agents and how they function in real-world scenarios."
+      ]
+    },
+    {
+      "title": "Generative AI: Improving Real World RAG Systems - Key Challenges & Practical Solutions",
+      "description": "Master key challenges in real-world Retrieval-Augmented Generation (RAG) systems. Explore practical solutions, advanced retrieval strategies, and agentic RAG systems to improve context, relevance, and accuracy in AI-driven applications.",
+      "level": "Beginner",
+      "duration": "1 Hour",
+      "rating": "4.8/5",
+      "link": "https://courses.analyticsvidhya.com/courses/improving-real-world-rag-systems-key-challenges",
+      "certificate": {
+        "available": true,
+        "details": "Unlock a lifetime-valid certificate from Analytics Vidhya upon completing the course—your achievement is forever recognized!"
+      },
+          "topics": [
+            "Introduction to RAG Systems",
+            "Resources",
+            "RAG System Challenges Practical Solutions",
+            "Hands-on: Solution for Missing Content in RAG",
+            "Other Key Challenges",
+            "Practical Solutions",
+            "Hands-on: Solution for Missed Top Ranked, Not in Context, Not Extracted - Incorrect Specificity",
+            "Hands-on: Solution for Missed Wrong Format Problem Solution",
+            "Hands-on: Solution for Wrong Format",
+            "Incomplete Problem Solution",
+            "HyDE",
+            "Other Practical Solutions from Recent Research Papers"
+          ],
+      "target_audience": [
+        "AI/ML professionals aiming to enhance RAG system performance and solve real-world challenges.",
+        "Developers/Engineers building search, conversational, or generative AI systems needing better data retrieval and context handling.",
+        "Researchers/Enthusiasts seeking hands-on experience with advanced RAG techniques and agentic systems."
+      ],
+      "instructor": {
+        "name": "Dipanjan Sarkar",
+        "title": "Head of Community and Principal AI Scientist, Analytics Vidhya",
+        "bio": "Dipanjan Sarkar is a distinguished Lead Data Scientist, Published Author, and Consultant, having a decade of extensive expertise in Machine Learning, Deep Learning, Generative AI, Computer Vision, and Natural Language Processing. His leadership spans Fortune 100 enterprises to startups, crafting end-to-end data products and pioneering Generative AI upskilling programs. A seasoned mentor, Dipanjan advises a diverse clientele, from novices to C-suite executives and PhDs, across Advanced Analytics, Product Development, and Artificial Intelligence. His recognitions include 'Top 10 Data Scientists in India, 2020,' '40 under 40 Data Scientists, 2021,' 'Google Developer Expert in Machine Learning, 2019,' and 'Top 50 AI Thought Leaders, Global AI Hub, 2022,' alongside global accolades and a Google Champion Innovator title in Cloud AI/ML, 2022.",
+        "linkedin": "https://www.linkedin.com/in/dipanjansarkar/"
+      },
+      "faq": [
+        {
+          "question": "What prior knowledge do I need for this course?",
+          "answer": "A basic understanding of AI/ML principles is needed, along with some experience in machine learning frameworks such as PyTorch or TensorFlow. Familiarity with natural language processing (NLP) concepts will be helpful but not mandatory."
+        },
+        {
+          "question": "Does this course include practical exercises?",
+          "answer": "Yes, the course provides practical, hands-on exercises through demos and notebooks. You’ll have opportunities to implement RAG systems and experiment with real-world use cases, focusing on improving retrieval and generation tasks."
+        },
+        {
+          "question": "What tools do I need for this course?",
+          "answer": "You’ll need access to Python, Jupyter Notebooks, and relevant libraries such as LangChain, Hugging Face, and vector databases. The course will guide you through setting up the necessary environment for practicing the techniques."
+        },
+        {
+          "question": "How is this course different from other AI/ML courses?",
+          "answer": "Unlike general AI/ML courses, this course zeroes in on Retrieval-Augmented Generation (RAG) systems, addressing practical challenges like hallucinations, retrieval errors, and context optimization, with a strong emphasis on real-world applications."
+        },
+        {
+          "question": "What advanced techniques are covered in this course?",
+          "answer": "Yes, the course covers advanced techniques like hyperparameter tuning, chunking strategies, embedding models, context compression, and agentic RAG systems, giving you the tools to build and optimize high-performing RAG systems."
+        }
+      ],
+      "key_takeaways": [
+        "Master RAG systems with a solid grasp of architecture and components.",
+        "Solve key challenges like missing content and hallucinations.",
+        "Optimize performance with advanced chunking and retrieval strategies.",
+        "Develop practical decision-making skills for LLM adoption in various industries."
+      ]
+    },
+    {
+      "title": "Framework to Choose the Right LLM for Your Business",
+      "description": "This course provides a comprehensive framework for selecting the right LLM for your business. Learn to evaluate LLMs based on accuracy, cost, scalability, and more, while exploring real-world applications to make informed, strategic AI decisions.",
+      "level": "Beginner",
+      "duration": "1 Hour",
+      "rating": "4.7/5",
+      "link": "https://courses.analyticsvidhya.com/courses/framework-to-choose-the-right-llm-for-your-business",
+      "certificate": {
+        "available": true,
+        "details": "Unlock a lifetime-valid certificate from Analytics Vidhya upon completing the course—your achievement is forever recognized!"
+      },
+          "topics": [
+            "Introduction",
+            "It's an LLM World!",
+            "Understand Your Business",
+            "Framework to Choose the Right LLM",
+            "Case Studies",
+            "Conclusion"
+          ],
+      "target_audience": [
+        "Business leaders seeking to implement AI-driven solutions efficiently.",
+        "Data scientists exploring LLMs for industry-specific applications.",
+        "Tech professionals involved in AI integration and decision-making processes."
+      ],
+      "instructor": {
+        "name": "Rohan Rao",
+        "title": "Principal Data Scientist, H2O.ai; Quadruple Kaggle Grandmaster",
+        "bio": "Rohan Rao is a Principal Data Scientist at H2O.ai and an IIT-Bombay alumnus, a quadruple Kaggle Grandmaster, and a former #1 ranked professional on Analytics Vidhya. He is also a 9-time National Sudoku Champion, passionate about coding, reading, and writing.",
+        "linkedin": "https://www.linkedin.com/in/rohanrao/"
+      },
+      "faq": [
+        {
+          "question": "What factors should I consider when choosing an LLM?",
+          "answer": "Key factors include the LLM's accuracy, cost, scalability, technical compatibility, support, security, and compliance with privacy laws. The decision-making framework ensures the chosen LLM aligns with specific business requirements."
+        },
+        {
+          "question": "Are all LLMs suitable for all tasks?",
+          "answer": "No, different LLMs are suited to different tasks. Selecting the right LLM depends on the specific business problem, required capabilities, and available resources."
+        },
+        {
+          "question": "Why is accuracy important when choosing an LLM?",
+          "answer": "Accuracy is crucial, especially in fields like healthcare and education. LLMs must perform reliably across datasets, ensuring consistency and stability in results for critical business applications."
+        },
+        {
+          "question": "What decisions should I make when selecting an LLM for healthcare?",
+          "answer": "Key decisions include choosing an LLM fine-tuned for medical data, ensuring accuracy, maintaining privacy, and complying with healthcare regulations."
+        },
+        {
+          "question": "Can open-source LLMs be viable alternatives?",
+          "answer": "Yes, open-source LLMs, like Llama3, can be viable alternatives, especially when customized to specific business needs. They are catching up with closed-source options in performance."
+        }
+      ],
+      "key_takeaways": [
+        "Understand how to evaluate and select the right LLM for business needs.",
+        "Learn to assess LLMs based on accuracy, cost, scalability, and integration.",
+        "Gain insights into real-world LLM applications through case studies.",
+        "Develop practical decision-making skills for LLM adoption in various industries."
+      ]
+    },
+    {
+      "title": "Framework to Choose the Right LLM for Your Business",
+      "description": "This course provides a comprehensive framework for selecting the right LLM for your business. Learn to evaluate LLMs based on accuracy, cost, scalability, and more, while exploring real-world applications to make informed, strategic AI decisions.",
+      "level": "Beginner",
+      "duration": "1 Hour",
+      "rating": "4.7/5",
+      "link": "https://courses.analyticsvidhya.com/courses/choosing-the-right-LLM-for-your-business",
+      "certificate": {
+        "available": true,
+        "details": "Unlock a lifetime-valid certificate from Analytics Vidhya upon completing the course—your achievement is forever recognized!"
+      },
+          "topics": [
+            "Introduction",
+            "It's an LLM World!",
+            "Understand Your Business",
+            "Framework to Choose the Right LLM",
+            "Case Studies",
+            "Conclusion"
+          ],
+      "target_audience": [
+        "Business leaders seeking to implement AI-driven solutions efficiently.",
+        "Data scientists exploring LLMs for industry-specific applications.",
+        "Tech professionals involved in AI integration and decision-making processes."
+      ],
+      "instructor": {
+        "name": "Rohan Rao",
+        "title": "Principal Data Scientist, H2O.ai; Quadruple Kaggle Grandmaster",
+        "bio": "Rohan Rao is a Principal Data Scientist at H2O.ai and an IIT-Bombay alumnus, a quadruple Kaggle Grandmaster, and a former #1 ranked professional on Analytics Vidhya. He is also a 9-time National Sudoku Champion, passionate about coding, reading, and writing.",
+        "linkedin": "https://www.linkedin.com/in/rohanrao/"
+      },
+      "faq": [
+        {
+          "question": "What factors should I consider when choosing an LLM?",
+          "answer": "Key factors include the LLM's accuracy, cost, scalability, technical compatibility, support, security, and compliance with privacy laws. The decision-making framework ensures the chosen LLM aligns with specific business requirements."
+        },
+        {
+          "question": "Are all LLMs suitable for all tasks?",
+          "answer": "No, different LLMs are suited to different tasks. Selecting the right LLM depends on the specific business problem, required capabilities, and available resources."
+        },
+        {
+          "question": "Why is accuracy important when choosing an LLM?",
+          "answer": "Accuracy is crucial, especially in fields like healthcare and education. LLMs must perform reliably across datasets, ensuring consistency and stability in results for critical business applications."
+        },
+        {
+          "question": "What decisions should I make when selecting an LLM for healthcare?",
+          "answer": "Key decisions include choosing an LLM fine-tuned for medical data, ensuring accuracy, maintaining privacy, and complying with healthcare regulations."
+        },
+        {
+          "question": "Can open-source LLMs be viable alternatives?",
+          "answer": "Yes, open-source LLMs, like Llama3, can be viable alternatives, especially when customized to specific business needs. They are catching up with closed-source options in performance."
+        }
+      ],
+      "key_takeaways": [
+        "Understand how to evaluate and select the right LLM for business needs.",
+        "Learn to assess LLMs based on accuracy, cost, scalability, and integration.",
+        "Gain insights into real-world LLM applications through case studies.",
+        "Develop practical decision-making skills for LLM adoption in various industries."
+      ]
+    },
+    {
+      "title": "Building Your First RAG System using LlamaIndex",
+      "description": "Dive into the sea of Retrieval-Augmented Generation with this free course that will help you build your first RAG model with the popular LlamaIndex.",
+      "level": "Intermediate",
+      "duration": "1.1 Hours",
+      "rating": "4.8/5",
+      "link": "https://courses.analyticsvidhya.com/courses/building-first-rag-systems-using-llamaindex",
+      "certificate": {
+        "available": true,
+        "details": "Unlock a lifetime-valid certificate from Analytics Vidhya upon completing the course—your achievement is forever recognized!"
+      },
+      "curriculum": [
+        {
+          "module": "Introduction to RAG systems",
+          "topics": [
+            "Welcome to this course",
+            "Why RAG",
+            "What is RAG system",
+            "Overview of RAG Framework",
+            "Quiz",
+            "Course handouts"
+          ]
+        },
+        {
+          "module": "Getting Started with LlamaIndex",
+          "topics": [
+            "Introduction to LlamaIndex",
+            "Components of LlamaIndex",
+            "Reading Material: How to get your API Key",
+            "How to get Open AI Keys - 2 min - Website go through",
+            "Build Your First RAG system using LlamaIndex",
+            "Quiz"
+          ]
+        }
+      ],
+      "requirements": [
+        "A working laptop/desktop and an internet connection",
+        "Knowledge of Deep Learning",
+        "Understanding of Large Language Models"
+      ],
+      "instructor": {
+        "name": "Prashant Sahu, Ph.D",
+        "title": "Data Science Manager, Analytics Vidhya",
+        "bio": "A dynamic and innovative Data Scientist who brings extensive experience in Artificial Intelligence, Machine Learning, and Advanced Analytics to the table."
+      },
+      "key_takeaways": [
+        "Learn the steps involved in building a RAG system using Llamaindex.",
+        "Hands-On Experience: Engage with exercises designed to reinforce your learning and apply concepts in real-world scenarios."
+      ]
+    },
+    {
+      "title": "Getting Started with Large Language Models",
+      "description": "Embarking on a journey into Large Language Models (LLMs) can be seamless with the right approach. This course offers an optimal pathway to delve into the intricacies of natural language processing and model training.",
+      "level": "Beginner",
+      "duration": "1.2 Hours",
+      "rating": "4.5/5",
+      "link": "https://courses.analyticsvidhya.com/courses/getting-started-with-llms",
+      "certificate": {
+        "available": true,
+        "details": "Unlock a lifetime-valid certificate from Analytics Vidhya upon completing the course—your achievement is forever recognized!"
+      },
+      "curriculum": [
+        {
+          "module": "Introduction",
+          "topics": [
+            "Course Objective",
+            "Course Handouts",
+            "The Exponential Growth"
+          ]
+        },
+        {
+          "module": "The Evolution of NLP",
+          "topics": [
+            "Symbolic NLP",
+            "Statistical NLP",
+            "Deep Learning",
+            "Deep Learning Era II",
+            "Transformers and Evolution",
+            "Quiz"
+          ]
+        },
+        {
+          "module": "What are Large Language Models?",
+          "topics": [
+            "Introduction to Large Language Model",
+            "What is a Large Language Model?",
+            "Understanding Foundational Models",
+            "Different types of LLMs: Based on Response",
+            "Different types of LLMs: Based on Model Architecture",
+            "Quiz"
+          ]
+        },
+        {
+          "module": "The Current State of the Art in LLMs",
+          "topics": [
+            "The Current State of the Art in LLMs"
+          ]
+        },
+        {
+          "module": "Generative AI - Glossary",
+          "topics": [
+            "Generative AI- Glossary"
+          ]
+        },
+        {
+          "module": "Your Feedback Matters!",
+          "topics": [
+            "Your Feedback Matters!"
+          ]
+        }
+      ],
+      "requirements": [
+        "A working laptop/desktop and an internet connection",
+        "Basic understanding of machine learning concepts"
+      ],
+      "instructor": {
+        "name": "Kunal Jain",
+        "title": "Founder & CEO, Analytics Vidhya",
+        "bio": "Kunal has 15+ years of experience in the field of Data Science and is the founder and CEO of Analytics Vidhya - the world's 2nd largest Data Science community."
+      },
+      "key_takeaways": [
+        "Learn Large Language Model techniques and build real-world NLP applications.",
+        "Hands-On Experience: Engage with exercises designed to reinforce your learning and apply concepts in real-world scenarios."
+      ]
+    },
+    {
+      "title": "Generative AI - A Way of Life",
+      "description": "Embark on a journey into Generative AI for beginners. Learn AI-powered text and image generation, use top AI tools, and explore industry applications. Gain practical skills, understand ethical practices, and master prompting techniques.",
+      "level": "Beginner",
+      "duration": "6 Hours",
+      "rating": "4.7/5",
+      "link": "https://courses.analyticsvidhya.com/courses/genai-a-way-of-life",
+      "certificate": {
+        "available": true,
+        "details": "Unlock a lifetime-valid certificate from Analytics Vidhya upon completing the course—your achievement is forever recognized!"
+      },
+      "curriculum": [
+        {
+          "module": "Introduction to Generative AI",
+          "topics": [
+            "Fundamentals of Generative AI",
+            "What is Generative AI?",
+            "How does Generative AI work?",
+            "Exploring the Potential of Generative AI",
+            "GenAI Pinnacle Program",
+            "Hands On: Let’s get generating!"
+          ]
+        },
+        {
+          "module": "Text Generation Using Generative AI",
+          "topics": [
+            "An Overview of Text Generation",
+            "What is ChatGPT?",
+            "Working with ChatGPT",
+            "Working with ChatGPT Plus",
+            "Build a Custom GPT",
+            "Working with Microsoft Copilot",
+            "Working with Google Gemini",
+            "Gen AI Pinnacle Ad",
+            "Learning the Art of Prompting",
+            "Creating a Chatbot",
+            "Ethics and Best Practices"
+          ]
+        },
+        {
+          "module": "Image Generation Using Generative AI",
+          "topics": [
+            "Introduction to Image Generation",
+            "Exploring the Potential of Image Generation",
+            "Working with free image generation tools",
+            "Working with Clipdrop",
+            "Working with Bing Image Creator",
+            "Working with Firefly",
+            "Working with Paid Image Generative Tools",
+            "Working with paid image generative tools DreamStudio",
+            "Working with DALLE-2",
+            "Working with Midjourney",
+            "Gen AI Pinnacle Ad",
+            "Prompting your Way to Art",
+            "Accomplishing Tasks with Image Generation",
+            "E for Ethics and Efficiency"
+          ]
+        }
+      ],
+      "requirements": [
+        "A working laptop/desktop and an internet connection",
+        "No prior technical experience required"
+      ],
+      "instructor": {
+        "name": "Apoorv Vishnoi",
+        "title": "Head - Training Vertical, Analytics Vidhya",
+        "bio": "Apoorv is a seasoned AI professional with over 14 years of experience. He has founded companies, worked at start-ups and mentored start-ups at incubation cells."
+      },
+      "key_takeaways": [
+        "Utilize leading AI tools like ChatGPT, Microsoft Copilot, and DALL·E3 to create text and image content, enhancing your ability to innovate and streamline your creative processes.",
+        "Explore practical use cases across various industries, from marketing to finance, and apply ethical best practices, ensuring you are well-equipped to implement AI solutions responsibly and effectively."
+      ]
+    },
+    {
+      "title": "Building LLM Applications using Prompt Engineering",
+      "description": "This free course offers a comprehensive guide on building LLM applications, mastering prompt engineering, implementing best practices, and developing chatbots using enterprise data using advanced techniques like few-shot or one-shot prompting.",
+      "level": "Beginner",
+      "duration": "2.1 Hours",
+      "rating": "4.6/5",
+      "link": "https://courses.analyticsvidhya.com/courses/building-llm-applications-using-prompt-engineering-free",
+      "certificate": {
+        "available": true,
+        "details": "Unlock a lifetime-valid certificate from Analytics Vidhya upon completing the course—your achievement is forever recognized!"
+      },
+      "curriculum": [
+        {
+          "module": "How to build different LLM Applications?",
+          "topics": [
+            "Introduction to Building Different LLM applications",
+            "Prompt Engineering",
+            "Retrieval Augmented Generation",
+            "Finetuning LLMs",
+            "Training LLMs from Scratch"
+          ]
+        },
+        {
+          "module": "Getting Started with Prompt Engineering",
+          "topics": [
+            "Course handouts",
+            "Introduction to Prompt Engineering",
+            "Set up your machine for Prompt Engineering",
+            "Prompt Engineering with ChatGPT API",
+            "Enabling Conversation with ChatGPT API"
+          ]
+        },
+        {
+          "module": "Understanding Different Prompt Engineering Techniques",
+          "topics": [
+            "Introduction to Understanding Different Prompt Engineering Techniques",
+            "Few Shot Prompting",
+            "One Shot Prompting",
+            "Zero Shot Prompting"
+          ]
+        }
+      ],
+      "requirements": [
+        "A working laptop/desktop and an internet connection",
+        "Basic knowledge of machine learning and AI is helpful"
+      ],
+      "instructor": {
+        "name": "Kunal Jain",
+        "title": "Founder & CEO, Analytics Vidhya",
+        "bio": "Kunal has 15+ years of experience in the field of Data Science and is the founder and CEO of Analytics Vidhya- the world's 2nd largest Data Science community."
+      },
+      "key_takeaways": [
+        "Learn to effectively build and implement different LLM applications.",
+        "Understand and apply few-shot, one-shot, and zero-shot prompting.",
+        "Gain expertise in building chatbots using enterprise data through advanced prompt engineering methods."
+      ]
+    },
+    {
+      "title": "MidJourney: From Inspiration to Implementation",
+      "description": "Understand the fundamentals of the famous image generation tool - Midjourney in this free course. You will learn the various components of Midjourney and how to use it to bring your imaginations to the real world.",
+      "level": "Intermediate",
+      "duration": "33 Mins",
+      "rating": "4.6/5",
+      "link": "https://courses.analyticsvidhya.com/courses/midjourney_from_inspiration_to_implementation",
+      "certificate": {
+        "available": true,
+        "details": "Unlock a lifetime-valid certificate from Analytics Vidhya upon completing the course—your achievement is forever recognized!"
+      },
+      "curriculum": [
+        {
+          "module": "MidJourney",
+          "topics": [
+            "MidJourney - Storm _ Story",
+            "MidJourney - Inspiration",
+            "MidJourney - How to use",
+            "MidJourney Alternatives"
+          ]
+        }
+      ],
+      "requirements": [
+        "A working laptop/desktop and an internet connection",
+        "Some basic Knowledge of Stable Diffusion",
+        "Basic understanding of Prompt Engineering"
+      ],
+      "instructor": {
+        "name": "Sandeep Singh",
+        "title": "Expert Senior Director, Bain & Company",
+        "bio": "Sandeep Singh, expert senior director at Bain & Company is a leader in AI and Computer Vision. He has pioneered advanced geospatial solutions in Silicon Valley, enhancing mapping, navigation, and sector-wide applications."
+      },
+      "key_takeaways": [
+        "Understand MidJourney Tools: Gain a practical understanding of how to use MidJourney for creative projects.",
+        "Find Inspiration: Learn how to draw inspiration from various sources to fuel your creativity.",
+        "Explore Alternatives: Discover alternative tools to broaden your creative toolkit."
+      ]
+    }
+  ],
+  "Machine learning cources" : [
+    {
+      "title": "Introduction to AI & ML",
+      "description": "Artificial Intelligence (AI) and Machine Learning (ML) are changing the world around us. From functions to industries, AI and ML are disrupting how we work and how we function. Get to know all about the different facets of AI and ML in this course.",
+      "level": "Beginner",
+      "duration": "2 Hours",
+      "rating": "4.8/5",
+      "link": "https://courses.analyticsvidhya.com/courses/introduction-to-ai-ml",
+      "certificate": {
+        "available": true,
+        "details": "Unlock a lifetime-valid certificate from Analytics Vidhya upon completing the course—your achievement is forever recognized!"
+      },
+      "curriculum": [
+        {
+          "module": "Introduction to AI & ML",
+          "topics": [
+            "What is AI&ML?",
+            "Types of ML",
+            "When to Apply AI&ML",
+            "Recent AI Uprising",
+            "How the world is Changing?",
+            "Building Blocks of AI and ML",
+            "Knowing Each Other",
+            "AI&ML Blackbelt Plus Program (Sponsored)"
+          ]
+        },
+        {
+          "module": "Common Terminologies, Tools and Techniques",
+          "topics": [
+            "Common Terminologies",
+            "Common Data Capturing Types and Tools",
+            "Common Tools",
+            "Common Techniques",
+            "Common Techniques - Part1",
+            "Common Techniques - Part2"
+          ]
+        },
+        {
+          "module": "Skills required to become a data science professional",
+          "topics": [
+            "Skills Required in Data Science",
+            "AI and ML Black Belt+",
+            "Where to Go from here!!"
+          ]
+        }
+      ],
+      "requirements": [
+        "A working Internet connection",
+        "Curiosity about Artificial Intelligence and Machine Learning"
+      ],
+      "instructor": {
+        "name": "Kunal Jain",
+        "title": "Founder & CEO, Analytics Vidhya",
+        "bio": "Kunal has 15+ years of experience in the field of Data Science and is the founder and CEO of Analytics Vidhya- the world's 2nd largest Data Science community."
+      },
+      "key_takeaways": [
+        "You will learn the current state of AI and ML, how they are disrupting businesses globally",
+        "Solid understanding of what AI and ML mean, what they represent in the current market and industry, how they work, and why you should learn about them."
+      ]
+    },
+    {
+      "title": "Introduction to Python",
+      "description": "Power up your career with the best and most popular data science language, Python. Leverage your Python skills to start your Data Science journey. This course is intended for beginners with no coding or Data Science background.",
+      "level": "Beginner",
+      "duration": "1 Hour",
+      "rating": "4.8/5",
+      "link": "https://courses.analyticsvidhya.com/courses/introduction-to-data-science",
+      "certificate": {
+        "available": true,
+        "details": "Upon successful completion of the course, you will be provided a block chain enabled certificate by Analytics Vidhya with lifetime validity."
+      },
+      "curriculum": [
+        {
+          "module": "Overview of the Course",
+          "topics": [
+            "Overview of the Course",
+            "AI&ML Blackbelt Plus Program (Sponsored)"
+          ]
+        },
+        {
+          "module": "Introduction to Python",
+          "topics": [
+            "A brief introduction to Python",
+            "Introduction to Python Test",
+            "Installing Python",
+            "Become a BlackBelt in Data Science"
+          ]
+        },
+        {
+          "module": "Understanding Operators",
+          "topics": [
+            "Theory of Operators",
+            "Exercise",
+            "Understanding Operators in Python",
+            "Operators Test"
+          ]
+        },
+        {
+          "module": "Variables and Data Types",
+          "topics": [
+            "Understanding variables and data types",
+            "Variable Test",
+            "Variables and Data Types in Python",
+            "Exercise"
+          ]
+        },
+        {
+          "module": "Conditional Statements",
+          "topics": [
+            "Understanding Conditional Statements",
+            "Exercise",
+            "Implementing Conditional Statements in Python",
+            "Conditional Statements test"
+          ]
+        },
+        {
+          "module": "Looping Constructs",
+          "topics": [
+            "Understanding Looping Constructs",
+            "Exercise",
+            "Implementing Looping Constructs in Python",
+            "Looping Constructs test"
+          ]
+        },
+        {
+          "module": "Functions",
+          "topics": [
+            "Understanding Functions",
+            "Implementing Functions in Python",
+            "Functions test"
+          ]
+        },
+        {
+          "module": "Data Structure",
+          "topics": [
+            "A brief introduction to data structure",
+            "Data Structure test"
+          ]
+        },
+        {
+          "module": "Lists",
+          "topics": [
+            "Understanding the concept of Lists",
+            "Lists test",
+            "Implementing Lists in Python",
+            "Exercise"
+          ]
+        },
+        {
+          "module": "Dictionaries",
+          "topics": [
+            "Understanding the concept of Dictionaries",
+            "Exercise",
+            "Implementing Dictionaries in Python",
+            "Dictionaries test"
+          ]
+        },
+        {
+          "module": "Understanding Standard Libraries in Python",
+          "topics": [
+            "Understanding the concept of Standard Libraries",
+            "Libraries test"
+          ]
+        },
+        {
+          "module": "Reading a CSV File in Python",
+          "topics": [
+            "Reading a CSV File in Python - Introduction to Pandas",
+            "Reading a CSV file in Python: Implementation",
+            "Reading a csv file in Python test"
+          ]
+        },
+        {
+          "module": "Data Frames and basic operations with Data Frames",
+          "topics": [
+            "Understanding dataframes and basic operations",
+            "DataFrames and basic operations test",
+            "Reading dataframes and conduct basic operations in Python",
+            "Reading dataframes and conduct basic operations in Python Test"
+          ]
+        },
+        {
+          "module": "Indexing a Data Frame",
+          "topics": [
+            "Indexing a Dataframe",
+            "Indexing DataFrames test",
+            "Exercise"
+          ]
+        },
+        {
+          "module": "Data Manipulation and Visualization",
+          "topics": [
+            "Sorting Dataframes",
+            "Merging Dataframes",
+            "Quiz: Sorting and Merging dataframes",
+            "Apply function",
+            "Aggregating data",
+            "Quiz: Apply function and Aggregating data",
+            "Basics of Matplotlib",
+            "Data Visualization using Matplotlib",
+            "Quiz: Matplotlib",
+            "Basics of Seaborn",
+            "Data Visualization using Seaborn",
+            "Quiz: Seaborn"
+          ]
+        },
+        {
+          "module": "Regular Expressions",
+          "topics": [
+            "Understanding Regular Expressions",
+            "Quiz: Regular Expressions",
+            "Regular Expressions in Python",
+            "Quiz: Regular Expressions in Python"
+          ]
+        },
+        {
+          "module": "Cheatsheet for Python",
+          "topics": [
+            "Cheatsheet for Python"
+          ]
+        },
+        {
+          "module": "Evaluate",
+          "topics": [
+            "Instructions",
+            "Quiz",
+            "Python Coding Challenge"
+          ]
+        },
+        {
+          "module": "Feedback",
+          "topics": [
+            "Poll"
+          ]
+        },
+        {
+          "module": "Where to go from here?",
+          "topics": [
+            "Where to go from here?"
+          ]
+        }
+      ],
+      "requirements": [
+        "A working Internet connection",
+        "Curiosity about Artificial Intelligence and Machine Learning"
+      ],
+      "instructor": {
+        "name": "Analytics Vidhya",
+        "title": "In-house Instructors",
+        "bio": "The course is designed by a team of experts with industry knowledge in Python, Data Science, and Machine Learning."
+      },
+      "key_takeaways": [
+        "Understand Python syntax and basics for Data Science",
+        "Learn key Python libraries such as pandas, numpy, matplotlib, and seaborn",
+        "Develop a strong foundation for applying Python in real-world data science projects"
+      ]
+    },
+    {
+      "title": "Machine Learning Certification Course for Beginners",
+      "description": "In this free machine learning certification course, you will learn Python, the basics of machine learning, how to build machine learning models, and feature engineering techniques to improve the performance of your machine learning models.",
+      "duration": "6 Hours",
+      "rating": "4.8/5",
+      "link": "https://courses.analyticsvidhya.com/courses/machine-learning-certification-course-for-beginners",
+      "level": "Beginner",
+      "topics": [
+        "Python libraries like Numpy, Pandas, etc. to analyze your data efficiently.",
+        "Importance of Statistics and Exploratory Data Analysis (EDA) in the data science field.",
+        "Linear Regression, Logistic Regression, and Decision Trees for building machine learning models.",
+        "How to solve Classification and Regression problems using machine learning.",
+        "How to evaluate your machine learning models using the right evaluation metrics.",
+        "Improve and enhance your machine learning model’s accuracy through feature engineering."
+      ],
+      "prerequisites": "This course requires no prior knowledge of Data Science or any tool.",
+      "projects_covered": [
+        {
+          "title": "Customer Churn Prediction",
+          "description": "Predict customer churn for a bank's product: savings accounts, by analyzing customer information such as demographics and transactions."
+        },
+        {
+          "title": "NYC Taxi Trip Duration Prediction",
+          "description": "Predict trip duration for taxi rides in New York using data from TLC commission, aiming to improve taxi dispatching efficiency."
+        }
+      ],
+      "tools_covered": [
+        "Python programming language",
+        "Pandas",
+        "Numpy",
+        "Matplotlib",
+        "Scikit-learn",
+        "Seaborn"
+      ],
+      "curriculum": [
+        {
+          "module_title": "Overview of the Course",
+          "topics": [
+            "Knowing each other"
+          ]
+        },
+        {
+          "module_title": "Introduction to Data Science and Machine Learning",
+          "topics": [
+            "Overview of Machine Learning / Data Science",
+            "Common Terminology used in Data Science",
+            "Applications of Data Science"
+          ]
+        },
+        {
+          "module_title": "Setting up your system",
+          "topics": [
+            "Installation steps for Windows",
+            "Installation steps for Linux",
+            "Installation steps for Mac"
+          ]
+        },
+        {
+          "module_title": "Introduction to Python",
+          "topics": [
+            "Introduction to Python",
+            "Introduction to Jupyter Notebook"
+          ]
+        },
+        {
+          "module_title": "Variables and Data Types",
+          "topics": [
+            "Introduction to Variables",
+            "Implementing Variables in Python"
+          ]
+        },
+        {
+          "module_title": "Operators",
+          "topics": [
+            "Introduction to Operators",
+            "Implementing Operators in Python"
+          ]
+        },
+        {
+          "module_title": "Conditional Statements",
+          "topics": [
+            "Introduction to Conditional Statements",
+            "Implementing Conditional Statements in Python"
+          ]
+        },
+        {
+          "module_title": "Looping Constructs",
+          "topics": [
+            "Introduction to Looping Constructs",
+            "Implementing Loops in Python"
+          ]
+        },
+        {
+          "module_title": "Data Structures",
+          "topics": [
+            "Introduction to Data Structures",
+            "List and Tuple",
+            "Implementing List in Python",
+            "Implementing Tuple in Python",
+            "Introduction to Sets",
+            "Introduction to Dictionary"
+          ]
+        },
+        {
+          "module_title": "String Manipulation",
+          "topics": [
+            "Introduction to String Manipulation"
+          ]
+        },
+        {
+          "module_title": "Functions",
+          "topics": [
+            "Introduction to Functions",
+            "Implementing Functions in Python",
+            "Lambda Expression",
+            "Recursion"
+          ]
+        },
+        {
+          "module_title": "Modules, Packages and Standard Libraries",
+          "topics": [
+            "Introduction to Modules",
+            "Introduction to Packages",
+            "Standard Libraries in Python"
+          ]
+        },
+        {
+          "module_title": "Handling Text Files in Python",
+          "topics": [
+            "Handling Text Files in Python"
+          ]
+        },
+        {
+          "module_title": "Introduction to Python Libraries for Data Science",
+          "topics": [
+            "Important Libraries for Data Science"
+          ]
+        },
+        {
+          "module_title": "Python Libraries for Data Science",
+          "topics": [
+            "Basics of Numpy",
+            "Basics of Scipy",
+            "Basics of Pandas",
+            "Basics of Matplotlib",
+            "Basics of Scikit-Learn",
+            "Basics of Statsmodels"
+          ]
+        },
+        {
+          "module_title": "Reading Data Files in Python",
+          "topics": [
+            "Reading CSV files in Python",
+            "Reading Excel & Spreadsheet files in Python",
+            "Reading JSON files in Python"
+          ]
+        },
+        {
+          "module_title": "Preprocessing, Subsetting and Modifying Pandas Dataframes",
+          "topics": [
+            "Subsetting and Modifying Data in Python"
+          ]
+        },
+        {
+          "module_title": "Sorting and Aggregating Data in Pandas",
+          "topics": [
+            "Sorting the Dataframe",
+            "Concatenating Dataframes in Pandas",
+            "SQL-Like Joins in Pandas",
+            "Aggregating and Summarizing Dataframes"
+          ]
+        },
+        {
+          "module_title": "Visualizing Patterns and Trends in Data",
+          "topics": [
+            "Data Visualization with Matplotlib",
+            "Data Visualization with Seaborn"
+          ]
+        },
+        {
+          "module_title": "Machine Learning Lifecycle",
+          "topics": [
+            "6 Steps of Machine Learning Lifecycle",
+            "Introduction to Predictive Modeling"
+          ]
+        },
+        {
+          "module_title": "Build Your First Predictive Model",
+          "topics": [
+            "Preparing the Dataset",
+            "Build a Benchmark Model: Regression",
+            "Build a Benchmark Model: Classification"
+          ]
+        },
+        {
+          "module_title": "Evaluation Metrics",
+          "topics": [
+            "Confusion Matrix",
+            "Accuracy",
+            "Precision and Recall",
+            "AUC-ROC",
+            "Log loss"
+          ]
+        },
+        {
+          "module_title": "Build Your First ML Model: k-NN",
+          "topics": [
+            "Building a kNN model",
+            "Determining the right value of k",
+            "How to calculate the distance"
+          ]
+        },
+        {
+          "module_title": "Linear Models",
+          "topics": [
+            "Introduction to Linear Models",
+            "Implementing Linear Regression",
+            "Implementing Logistic Regression"
+          ]
+        },
+        {
+          "module_title": "Project: Customer Churn Prediction",
+          "topics": [
+            "Predicting customer churn"
+          ]
+        },
+        {
+          "module_title": "Decision Tree",
+          "topics": [
+            "Introduction to Decision Trees",
+            "Optimizing Performance of Decision Trees"
+          ]
+        },
+        {
+          "module_title": "Feature Engineering",
+          "topics": [
+            "Feature Transformation",
+            "Feature Scaling",
+            "Feature Encoding",
+            "Combining Sparse Classes"
+          ]
+        },
+        {
+          "module_title": "Project: NYC Taxi Trip Duration Prediction",
+          "topics": [
+            "Exploring the NYC dataset",
+            "Predicting the NYC taxi trip duration"
+          ]
+        }
+      ],
+      "certificate": "Unlock a lifetime-valid certificate from Analytics Vidhya upon completing the course.",
+      "instructor": {
+        "name": "Kunal Jain",
+        "role": "Founder & CEO, Analytics Vidhya",
+        "experience": "15+ years in Data Science"
+      }
+    },
+    {
+      "title": "The Working of Neural Networks - Free Course",
+      "description": "Kickstarting your career in the field of Deep Learning can be made easy with the right guide. This course will serve as a learning path to help beginners navigate through the complex terrain of Deep Learning.",
+      "link": "https://courses.analyticsvidhya.com/courses/the-working-of-neural-networks",
+      "curriculum": [
+        {
+          "module_title": "Understanding the working of Neural Networks",
+          "topics": [
+            "How are Neural Networks trained - Forward Propagation",
+            "Understanding Loss Functions + Hands-on",
+            "Reading: Creating a Custom Loss Function (Optional)",
+            "Optimization Techniques - Gradient Descent",
+            "What is Back Propagation?",
+            "Types of Gradient Descent",
+            "Common Optimization Techniques - Part 1",
+            "Common Optimization Techniques - Part 2",
+            "Building a Deep Neural Network (Hands-on Regression Model)",
+            "Building a Deep Neural Network (Hands-on Classification Model)"
+          ]
+        }
+      ],
+      "key_takeaways": [
+        "Utilize leading AI tools like ChatGPT, Microsoft Copilot, and DALL·E3 to create text and image content, enhancing your ability to innovate and streamline your creative processes.",
+        "Hands-On Experience: Engage with exercises designed to reinforce your learning and apply concepts in real-world scenarios."
+      ],
+      "target_audience": [
+        "Professionals: Individuals looking to expand their skill set and apply deep learning across different industries.",
+        "Aspiring Students: For those setting out on their journey to mastering deep learning and making a mark in the tech world."
+      ],
+      "requirements": [
+        "A working laptop/desktop and an internet connection",
+        "Sufficient space in your laptop to download necessary files"
+      ],
+      "recommended_prerequisites": "It is recommended that you complete the advanced Machine Learning course before taking up this course.",
+      "enrollment": "Enroll Now",
+      "instructor": {
+        "name": "Analytics Vidhya Team",
+        "role": "Instructors at Analytics Vidhya"
+      },
+      "platform": "Analytics Vidhya",
+      "privacy_policy": "https://www.analyticsvidhya.com/privacy-policy",
+      "terms_of_use": "https://www.analyticsvidhya.com/terms-of-use",
+      "refund_policy": "https://www.analyticsvidhya.com/refund-policy"
+    },
+    {
+      "title": "Understanding Linear Regression - Free Course",
+      "description": "Linear Regression is one of the foundational algorithms used in the industry to make predictions for regression problems. In this free course, we will understand Linear Regression using a Business Case Study.",
+      "link": "https://courses.analyticsvidhya.com/courses/free-understanding-linear-regression",
+      "curriculum": [
+        {
+          "module_title": "Linear Regression",
+          "topics": [
+            "Introduction to the Problem Statement",
+            "Resources for this Course",
+            "Introduction to Linear Regression",
+            "Significance of Slope and Intercept in the linear regression",
+            "How Model Decides The Best-Fit Line",
+            "Let’s Build a Simple Linear Regression Model",
+            "Model Understanding Using Descriptive Approach",
+            "Model Understanding Using Descriptive Approach - II",
+            "Model Building Using Predictive Approach"
+          ]
+        }
+      ],
+      "key_takeaways": [
+        "Learn Linear Regression technique and build real-world Machine Learning Models.",
+        "Hands-On Experience: Engage with exercises designed to reinforce your learning and apply concepts in real-world scenarios.",
+        "Career Readiness: Prepare to apply Linear Regression across industries, equipping yourself for roles in data science, AI, and predictive modeling."
+      ],
+      "target_audience": [
+        "Professionals: Individuals looking to expand their skill set and apply machine learning across different industries.",
+        "Aspiring Students: For those setting out on their journey to mastering machine learning and making a mark in the tech world."
+      ],
+      "requirements": [
+        "A working laptop/desktop and an internet connection",
+        "Sufficient space in your laptop to download necessary files"
+      ],
+      "enrollment": "Enroll for free",
+      "instructor": {
+        "name": "Analytics Vidhya Team",
+        "role": "Instructors at Analytics Vidhya"
+      },
+      "platform": "Analytics Vidhya",
+      "privacy_policy": "https://www.analyticsvidhya.com/privacy-policy",
+      "terms_of_use": "https://www.analyticsvidhya.com/terms-of-use",
+      "refund_policy": "https://www.analyticsvidhya.com/refund-policy"
+    },
+    {
+      "title": "Building a Text Classification Model with Natural Language Processing - Free Course",
+      "description": "Explore the essentials of NLP with our comprehensive course! Learn text classification, NLP models with PyTorch, and real-world applications. Perfect for beginners and professionals alike, dive into AI-driven text analysis and hands-on projects.",
+      "link": "https://courses.analyticsvidhya.com/courses/free-building-textclassification-natural-language-processing",
+      "curriculum": [
+        {
+          "module_title": "Introduction to NLP",
+          "topics": [
+            "What is NLP",
+            "Common tasks in a NLP Project",
+            "NLP Libraries",
+            "Resources for the Course",
+            "Methods of Text Preprocessing - Part 1",
+            "Methods of Text Preprocessing - Part 2",
+            "Methods of Text Preprocessing - Part 3"
+          ]
+        },
+        {
+          "module_title": "Building a basic classification model",
+          "topics": [
+            "Introduction to dataset and problem statement",
+            "Creating a Basic Review Classification Model",
+            "Understanding TF-IDF and its implementations",
+            "Understanding N-grams",
+            "Advanced Preprocessing Techniques",
+            "Building an basic ANN model",
+            "Limitations of ANN"
+          ]
+        }
+      ],
+      "key_takeaways": [
+        "Acquire practical skills in building NLP models using PyTorch.",
+        "Career Readiness: Prepare to apply NLP across industries, equipping yourself for roles in data science, AI, and text analysis with hands-on exercises."
+      ],
+      "target_audience": [
+        "Professionals: Expand your skill set with NLP for real-world applications in diverse industries.",
+        "Aspiring Students: Master text data analysis and kickstart your career in AI and NLP."
+      ],
+      "enrollment": "Enroll for free",
+      "certificate_of_completion": "Unlock a lifetime-valid certificate from Analytics Vidhya upon completing the course—your achievement is forever recognized!",
+      "instructor": {
+        "name": "Apoorv Vishnoi",
+        "role": "Head - Training Vertical, Analytics Vidhya",
+        "experience": "Apoorv is a seasoned AI professional with over 14 years of experience. He has founded companies, worked at start-ups and mentored start-ups at incubation cells."
+      },
+      "platform": "Analytics Vidhya",
+      "privacy_policy": "https://www.analyticsvidhya.com/privacy-policy",
+      "terms_of_use": "https://www.analyticsvidhya.com/terms-of-use",
+      "refund_policy": "https://www.analyticsvidhya.com/refund-policy"
+    },
+    {
+      "title": "The A to Z of  Unsupervised ML - Free Course",
+      "description": "Get ahead of the crowd with this free course on Unsupervised Machine Learning Models. We will be covering popular clustering algorithms and DBSCAN and show you its applications on a real-world business problem.",
+      "link": "https://courses.analyticsvidhya.com/courses/free-unsupervised-ml-guide",
+      "curriculum": [
+        {
+          "module_title": "Understanding Unsupervised Machine Learning",
+          "topics": [
+            "Resources to be used in this course.",
+            "Setting the Context",
+            "Choosing Clustering Algorithms",
+            "Solving our Problem using k-means - Part 1",
+            "Solving our Problem using k-means - Part 2",
+            "Finding optimal K value",
+            "Analysis and Insights Based on the Plots",
+            "Introduction to Hierarchical Clustering Analysis (HCA)",
+            "Solving our Problem using Hierarchical Clustering",
+            "Introduction to DBSCAN Clustering",
+            "Solving our Problem using DBSCAN",
+            "Reading: Applications of Clustering in the Real World"
+          ]
+        },
+        {
+          "module_title": "Project",
+          "topics": []
+        }
+      ],
+      "key_takeaways": [
+        "Learn machine learning techniques and build real-world Unsupervised ML Models.",
+        "Hands-On Experience: Engage with exercises designed to reinforce your learning and apply concepts in real-world scenarios."
+      ],
+      "target_audience": [
+        "Professionals: Individuals looking to expand their skill set and apply unsupervised learning across different industries.",
+        "Aspiring Students: For those setting out on their journey to mastering machine learning and making a mark in the tech world."
+      ],
+      "enrollment": "Enroll for free",
+      "certificate_of_completion": "Unlock a lifetime-valid certificate from Analytics Vidhya upon completing the course—your achievement is forever recognized!",
+      "platform": "Analytics Vidhya",
+      "privacy_policy": "https://www.analyticsvidhya.com/privacy-policy",
+      "terms_of_use": "https://www.analyticsvidhya.com/terms-of-use",
+      "refund_policy": "https://www.analyticsvidhya.com/refund-policy"
+    },
+    {
+      "title": "Bagging and Boosting ML Algorithms - Free Course",
+      "description": "This free course on Advanced ML Algorithms - Bagging and Boosting is perfect place to get a taste of how advanced ML algorithms look like and function on a real-world business problem.",
+      "link": "https://courses.analyticsvidhya.com/courses/bagging-boosting-ML-Algorithms",
+      "curriculum": [
+        {
+          "module_title": "Bagging",
+          "topics": [
+            "Resources to be used in this course",
+            "Problem Statement",
+            "Understanding Ensemble Learning",
+            "Introducing Bagging Algorithms",
+            "Hands-on to Bagging Meta Estimator",
+            "Introduction to Random Forest",
+            "Understanding Out-Of-Bag Score",
+            "Random Forest VS Classical Bagging VS Decision Tree"
+          ]
+        },
+        {
+          "module_title": "Project",
+          "topics": []
+        },
+        {
+          "module_title": "Boosting",
+          "topics": [
+            "Introduction to Boosting",
+            "AdaBoost Step-by-Step Explanation",
+            "Hands-on - AdaBoost",
+            "Gradient Boosting Machines (GBM)",
+            "Hands-on Gradient Boost",
+            "Other Algorithms (XGBoost, LightBoost, CatBoost)"
+          ]
+        },
+        {
+          "module_title": "Project: Anova Insurance",
+          "topics": []
+        }
+      ],
+      "key_takeaways": [
+        "Learn to effectively use Bagging and Boosting Algorithms.",
+        "Hands-On Experience: Engage in practical exercises to reinforce learning and apply concepts, ensuring you gain the skills to utilize these algorithms."
+      ],
+      "target_audience": [
+        "Professionals: Individuals looking to deepen their knowledge and apply advanced machine learning techniques like Bagging and Boosting to solve complex problems across various domains.",
+        "Aspiring Students: Individuals looking to deepen their knowledge and apply advanced ML techniques to bring value to businesses."
+      ],
+      "prerequisites": [
+        "A working laptop/desktop and an internet connection.",
+        "Knowledge of Basic ML (Regression and Decision Trees).",
+        "Understanding of Python Programming Language."
+      ],
+      "enrollment": "Enroll for free",
+      "platform": "Analytics Vidhya",
+      "privacy_policy": "https://www.analyticsvidhya.com/privacy-policy",
+      "terms_of_use": "https://www.analyticsvidhya.com/terms-of-use",
+      "refund_policy": "https://www.analyticsvidhya.com/refund-policy"
+    },
+    {
+      "title": "Data Preprocessing on a Real-World Problem Statement - Free Course",
+      "description": "Kickstarting your career in Data Science can be easy with the right guide. This free course will serve as the perfect path to help beginners navigate the complex terrain of Data Preprocessing and prepare any data for modelling.",
+      "link": "https://courses.analyticsvidhya.com/courses/data-preprocessing",
+      "curriculum": [
+        {
+          "module_title": "Preparing the Dataset for Machine Learning Model",
+          "topics": [
+            "Resources to be used in this course",
+            "Introduction to Problem Statement",
+            "Reading Material - Understanding the Data",
+            "ML-workflow",
+            "Tasks to be Performed",
+            "Combining Product Attribute Data with POS Data",
+            "Combining all the tables in the Dataframe",
+            "Understanding the Combined Data",
+            "Treating Missing Values - Part 1",
+            "Treating Missing Values Part - 2",
+            "Outlier Detection and Treatment",
+            "Preparing the Dataset for Supervised and Unsupervised Models",
+            "Generative AI for Data Analysis"
+          ]
+        }
+      ],
+      "key_takeaways": [
+        "Learn data preprocessing tasks.",
+        "Hands-On Experience: Engage with exercises designed to reinforce your learning and apply concepts in real-world scenarios."
+      ],
+      "target_audience": [
+        "Professionals: Individuals looking to expand their skill set on data cleaning and preparation.",
+        "Aspiring Students: For those setting out on their journey to become a data scientist and making a mark in the tech world."
+      ],
+      "prerequisites": [
+        "A working laptop/desktop and an internet connection.",
+        "Jupyter notebook or any IDE to run Python codes.",
+        "Knowledge of basic ML theory and Python."
+      ],
+      "enrollment": "Enroll for free",
+      "platform": "Analytics Vidhya",
+      "privacy_policy": "https://www.analyticsvidhya.com/privacy-policy",
+      "terms_of_use": "https://www.analyticsvidhya.com/terms-of-use",
+      "refund_policy": "https://www.analyticsvidhya.com/refund-policy"
+    }
+  ]
+}
